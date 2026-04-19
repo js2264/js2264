@@ -1,7 +1,8 @@
 ## Python projects 
 
-- [**momics**](https://github.com/js2264/momics): cloud-native storage and query infrastructure for multi-omics data
-- [**hicstuff**](https://github.com/koszullab/hicstuff): lightweight library/pipeline to generate and handle Hi-C data
+- [**momics**](https://github.com/js2264/momics): Cloud-native storage and query infrastructure for multi-omics data
+- [**hicstuff**](https://github.com/koszullab/hicstuff): Lightweight library/pipeline to generate and handle Hi-C data
+- [**instagraal**](https://github.com/koszullab/instagraal): Large genome reassembly based on Hi-C data
 - [**metator**](https://github.com/koszullab/metator): Metagenomic binning based on Hi-C data
 - [**nf-metator**](https://github.com/js2264/nf-metator): Scalable containerized processing of metagenomic data with metator in nextflow
 
