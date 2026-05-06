@@ -1,10 +1,13 @@
-## Python projects 
+## Python & bash
 
 - [**momics**](https://github.com/js2264/momics): Cloud-native storage and query infrastructure for multi-omics data
 - [**hicstuff**](https://github.com/koszullab/hicstuff): Lightweight library/pipeline to generate and handle Hi-C data
 - [**instagraal**](https://github.com/koszullab/instagraal): Large genome reassembly based on Hi-C data
 - [**metator**](https://github.com/koszullab/metator): Metagenomic binning based on Hi-C data
 - [**nf-metator**](https://github.com/js2264/nf-metator): Scalable containerized processing of metagenomic data with metator in nextflow
+- [**autotinymapper**](https://github.com/js2264/autotinymapper): Email-driven automation wrapper around tinyMapper.sh for `maestro` HPC
+- [**tinyMapper**](https://github.com/js2264/tinyMapper): Versatile pipeline to process a variety of genome-wide assays
+- [**autobcl2fastq**](https://github.com/js2264/autobcl2fastq): Automatically fetch data from a remote sequencer directory, demultiplex fastq files, trim adaptors and run some preliminary QCs
 
 ## Bioconductor packages 
 
@@ -22,8 +25,3 @@
 | [Doc](https://js2264.github.io/fourDNData)      	| [fourDNData](https://bioconductor.org/packages/fourDNData)           	| Bioc release:<br>[![Release](https://bioconductor.org/shields/build/release/data-experiment/fourDNData.svg)](https://bioconductor.org/checkResults/release/data-experiment-LATEST/fourDNData/) <br>Bioc devel:<br>[![Devel](https://bioconductor.org/shields/build/release/data-experiment/fourDNData.svg)](https://bioconductor.org/checkResults/devel/data-experiment-LATEST/fourDNData/)                 	| [fourDNData](https://github.com/js2264/fourDNData)           	| [![rworkflows](https://github.com/js2264/fourDNData/actions/workflows/rworkflows.yml/badge.svg)](https://github.com/js2264/fourDNData/actions/workflows/rworkflows.yml)               	| [![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable) 	|
 | [Doc](https://js2264.github.io/VplotR)          	| [VplotR](https://bioconductor.org/packages/VplotR)                   	| Bioc release:<br>[![Release](https://bioconductor.org/shields/build/release/bioc/VplotR.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/VplotR/)<br>Bioc devel:<br>[![Devel](https://bioconductor.org/shields/build/devel/bioc/VplotR.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/VplotR/)                                                                                	| [VplotR](https://github.com/js2264/VplotR)                   	| [![rworkflows](https://github.com/js2264/VplotR/actions/workflows/rworkflows.yml/badge.svg)](https://github.com/js2264/VplotR/actions/workflows/rworkflows.yml)                       	| [![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable) 	|
 | [Doc](https://js2264.github.io/periodicDNA)     	| [periodicDNA](https://bioconductor.org/packages/periodicDNA)         	| Bioc release:<br>[![Release](https://bioconductor.org/shields/build/release/bioc/periodicDNA.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/periodicDNA/)<br>Bioc devel:<br>[![Devel](https://bioconductor.org/shields/build/devel/bioc/periodicDNA.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/periodicDNA/)                                                            	| [periodicDNA](https://github.com/js2264/periodicDNA)         	| -                                                                                                                                                                                     	| [![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable) 	|
-
-## Other resources
-
-- [**tinyMapper**](https://github.com/js2264/tinyMapper): Versatile pipeline to process a variety of genome-wide assays
-- [**autobcl2fastq**](https://github.com/js2264/autobcl2fastq): Automatically fetch data from a remote sequencer directory, demultiplex fastq files, trim adaptors and run some preliminary QCs
