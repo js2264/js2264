@@ -1,6 +1,7 @@
 ## Python & bash
 
 - [**chromosomix**](https://github.com/js2264/chromosomix): A modern genome browser for integrative analysis of multi-dimensional genomic data
+- [**metacooler**](https://github.com/js2264/metacooler): Extension of the cooler format for metagenomics Hi-C data
 - [**momics**](https://github.com/js2264/momics): Cloud-native storage and query infrastructure for multi-omics data
 - [**hicstuff**](https://github.com/koszullab/hicstuff): Lightweight library/pipeline to generate and handle Hi-C data
 - [**instagraal**](https://github.com/koszullab/instagraal): Large genome reassembly based on Hi-C data
